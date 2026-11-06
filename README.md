@@ -1,16 +1,51 @@
-## Hi there 👋
+Hallo I'm iqlarp 
 
-<!--
-**iqlarp/Iqlarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring cybersecurity and OSINT 
 
-Here are some ideas to get you started:
+I'm atech enthusiast interested in understanding how technology works, exploring digital security and developing practical technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+"whoami"
+
+- Interested in Cybersecurity & Digital Investigation.
+- Exploring OSINT and information gathering.
+- Learning Linux, Python and Git.
+- Experimenting with open-source tools.
+- Building my knowledge through hands-on projects.
+
+"interests"
+
+- 🔎 Open Source Intelligence (OSINT)
+- 🐧 Linux & Debian
+- 🔐 Cybersecurity
+- 💻 Programming & Scripting
+- 🌐 Networking
+- ⚙️ Automation
+
+"currently_learning"
+
+- Python
+- Linux commands & administration
+- Git & GitHub
+- Networking fundamentals
+- OSINT techniques
+
+"tools_and_environment"
+
+- Debian
+- Termux
+- Git & GitHub
+- Python
+- Windows / WSL
+
+"projects"
+
+Currently exploring tools, experimenting with open-source software and documenting my learning journey.
+
+More projects coming soon.
+
+---
+
+Larp. Experiment. Build. Repeat.
+
