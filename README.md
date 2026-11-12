@@ -2,8 +2,6 @@ Linux & Cybersecurity Learning Journal
 
 Learning Environment
 
-- Device: Android
-- Terminal: Termux
 - Distribution: Debian GNU/Linux 13 (Trixie)
 - Environment: PRoot-Distro
 - Architecture: ARM64 (aarch64)
